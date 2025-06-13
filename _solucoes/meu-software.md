@@ -1,0 +1,3 @@
+
+title: "Meu Software"price_permanent: 500.00price_monthly: 50.00price_quarterly: 120.00image: /assets/images/meu-software.jpgmercado_permanent_url: https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=licenca-definitivamercado_monthly_url: https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=licenca-mensalmercado_quarterly_url: https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=licenca-trimestralmercado_demo_url: https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=demodescription: "Descrição detalhada do software, com recursos e benefícios."seo_title: "Meu Software - Licença e Demo"
+Descrição detalhada do software, com recursos e benefícios.
